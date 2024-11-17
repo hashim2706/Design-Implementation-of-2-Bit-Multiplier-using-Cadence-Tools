@@ -110,7 +110,7 @@ Commands to get into Cadence:
 
 ![Screenshot 2024-11-13 182010](https://github.com/user-attachments/assets/5417d795-1a69-46e8-a09a-2f6f0e0dad9b)
 
-![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![Screenshot 2024-11-14 182010](https://github.com/user-attachments/assets/f7380c1f-059c-4b71-b7c1-45ec322a8e58)
 
  ## Results:
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations.
